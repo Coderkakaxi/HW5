@@ -1,0 +1,11 @@
+[[package]]
+name = "tokio"
+version = "1.9.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "e00535d08ef493f3bfe6547d61bfd4918733e0b9e765015955e27357ebb3937e"
+
+[[package]]
+name = "mini-redis"
+version = "0.2.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "3c7fa2699db6777763aeb7385ef0229cecbd742b9b8ef6a1ed7c3db11b4a4666"
